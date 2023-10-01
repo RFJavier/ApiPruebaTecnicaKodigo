@@ -1,0 +1,17 @@
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\bussinesLayer.deps.json
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\bussinesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\bussinesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\dataAccesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\entityesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\dataAccesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\bin\Debug\net5.0\entityesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.csproj.AssemblyReference.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.AssemblyInfoInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.AssemblyInfo.cs
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.csproj.CopyComplete
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\refint\bussinesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\bussinesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\bussinesLayer\obj\Debug\net5.0\ref\bussinesLayer.dll

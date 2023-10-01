@@ -1,0 +1,11 @@
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\bin\Debug\net5.0\entityesLayer.deps.json
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\bin\Debug\net5.0\entityesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\bin\Debug\net5.0\entityesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.AssemblyInfoInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.AssemblyInfo.cs
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\refint\entityesLayer.dll
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\entityesLayer.pdb
+C:\Users\Javier Rivera\OneDrive\Desktop\ApiRest\entityesLayer\obj\Debug\net5.0\ref\entityesLayer.dll
