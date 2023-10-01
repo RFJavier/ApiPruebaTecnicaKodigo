@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\ApiRest.csproj": {}
+    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\ApiRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\ApiRest.csproj": {
+    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\ApiRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\ApiRest.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\ApiRest.csproj",
         "projectName": "ApiRest",
-        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\ApiRest.csproj",
+        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\ApiRest.csproj",
         "packagesPath": "C:\\Users\\Javier Rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\obj\\",
+        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\bussinesLayer.csproj": {
-                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\bussinesLayer.csproj"
+              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\bussinesLayer.csproj": {
+                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\bussinesLayer.csproj"
               },
-              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
-                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj"
+              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
+                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\bussinesLayer.csproj": {
+    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\bussinesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\bussinesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\bussinesLayer.csproj",
         "projectName": "bussinesLayer",
-        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\bussinesLayer.csproj",
+        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\bussinesLayer.csproj",
         "packagesPath": "C:\\Users\\Javier Rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\bussinesLayer\\obj\\",
+        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\bussinesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -117,11 +117,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj": {
-                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj"
+              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj": {
+                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj"
               },
-              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
-                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj"
+              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
+                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj": {
+    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj",
         "projectName": "dataAccesLayer",
-        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj",
+        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\dataAccesLayer.csproj",
         "packagesPath": "C:\\Users\\Javier Rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\dataAccesLayer\\obj\\",
+        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\dataAccesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -182,8 +182,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
-                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj"
+              "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
+                "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
+    "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj",
         "projectName": "entityesLayer",
-        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\entityesLayer.csproj",
+        "projectPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\entityesLayer.csproj",
         "packagesPath": "C:\\Users\\Javier Rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\entityesLayer\\obj\\",
+        "outputPath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\entityesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

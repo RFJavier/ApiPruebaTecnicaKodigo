@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mxTh3AGh1vhdtTXRTvWI3HY0ongvGFRzazR+PSCZP97eEJPR6EMHBHtaMVa9sNnxaNH5hm41RaszYa8qVbz3Iw==",
+  "dgSpecHash": "tzjhvnFz53nl4Bv0vv8n8GraeCAzaOtIamNR0BXORtGEWq8VB/Hn5fhXS/8NeZqmaDGe0w6WlYJy8A9jqrSQaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiRest\\ApiRest\\ApiRest.csproj",
+  "projectFilePath": "C:\\Users\\Javier Rivera\\OneDrive\\Desktop\\ApiPruebaTecnica\\ApiRest\\ApiRest\\ApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javier Rivera\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\Javier Rivera\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
